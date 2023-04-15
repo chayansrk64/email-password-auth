@@ -1,0 +1,15 @@
+.email-pass{
+    padding: .7rem;
+    margin-bottom: .5rem;
+    background: white;
+    border: 1px solid gray;
+    border-radius: 8px;
+    color: black;
+}
+.register{
+    margin-top: .5rem;
+    width: 100%;
+    padding: .7rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
